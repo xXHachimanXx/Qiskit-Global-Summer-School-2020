@@ -1,0 +1,2 @@
+# Qiskit-Global-Summer-School-2020
+The Qiskit Global Summer School is a two-week event to empower the next generation of quantum scientists and developers with the knowledge to explore quantum applications on their own. It is a one-of-a-kind sequence that takes students from beginner level to understanding superconducting device physics and solving quantum chemistry problems on a quantum computer.
